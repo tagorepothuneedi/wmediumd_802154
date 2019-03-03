@@ -1,0 +1,5 @@
+Input configuration file: 2node.cfg
+#_if = 2
+Added station 0: 42:00:00:00:00:00
+Added station 1: 42:00:00:00:01:00
+REGISTER SENT!
